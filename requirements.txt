@@ -1,1 +1,5 @@
-pip freeze > requirements.txt
+streamlit
+ultralytics
+opencv-python
+pillow
+numpy
