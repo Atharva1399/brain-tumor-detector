@@ -1,5 +1,8 @@
-streamlit
-ultralytics
-opencv-python
-pillow
-numpy
+# Requirements for my Streamlit Project
+# Always use the pinned versions to avoid compatibility issues.
+
+streamlit==1.33.0
+ultralytics==8.2.22
+opencv-python==4.9.0.80
+pillow==10.2.0
+numpy==1.26.4
